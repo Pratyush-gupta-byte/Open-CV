@@ -20,4 +20,4 @@ while cam.isOpened():
         winsound.Beep(500,200)
     if cv2.waitKey(10) == ord('q'):
         break
-    cv2.imshow('Granny Cam', frame1)
+    cv2.imshow('Funny Cam', frame1)
