@@ -38,16 +38,13 @@ This project is a simple motion detector application implemented in Python using
 **Contributing:**
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
-**License:**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 **Author:**
-[Your Name](https://github.com/yourusername)
+Pratyush gupta (https://github.com/Pratyush-gupta-byte)
 
 **Acknowledgements:**
 Special thanks to the creators and contributors of OpenCV for their fantastic library.
 
 **Support:**
-If you encounter any issues or have questions about this project, please feel free to [open an issue](https://github.com/yourusername/motion-detector/issues) on GitHub.
+If you encounter any issues or have questions about this project, please feel free to [open an issue](https://github.com/Partyush-gupta-byte/Open-CV/issues) on GitHub.
 
 **Enjoy detecting motion!**
